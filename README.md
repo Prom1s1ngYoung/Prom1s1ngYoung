@@ -23,6 +23,11 @@ I'm currently a full stack engineer, love to solve challenge problems.
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br><br>
+
+## Highest Coding Contest Record
+Leetcode Contest 410
+![image](https://github.com/user-attachments/assets/5ad94422-13c0-4dd4-8048-08acfdf64d73)
 
 
   
