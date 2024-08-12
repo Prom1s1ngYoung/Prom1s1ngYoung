@@ -1,5 +1,5 @@
 ## Yello, I'm Young! 👋
-I'm currently a full stack engineer, love to solve challenge problems.
+I'm currently a Full Stack engineer, love to solve challenging problems.
 <br>
 <br>
 ## 📕 Latest Blog Post
