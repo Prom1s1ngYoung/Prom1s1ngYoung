@@ -25,7 +25,7 @@ I'm currently a Full Stack engineer, love to solve challenging problems.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <br><br>
 
-## Highest Coding Contest Record
+## Recent Coding Contest Record
 Leetcode Contest 410
 ![image](https://github.com/user-attachments/assets/5ad94422-13c0-4dd4-8048-08acfdf64d73)
 
